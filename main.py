@@ -1,4 +1,4 @@
-"""One Star, Five Stars for the Food — make.fun entry.
+"""One Star, Five Stars for the Food — make.fun entry (173 chars vs the 200-char gate).
 
 Writes one sentence (173 chars, within the 1-200 gate) to
 $MAKEFUN_OUTPUT_DIR/entry.txt (default /output/entry.txt):
